@@ -1,6 +1,5 @@
-Hi! My name is Rafael, I'm from Brazil and I'm currently a student. 👨‍💻
-
-I'm always looking to learn and improve my skills.
+Hi! My name is Rafael Almeida.
+<br>I'm from Brazil and i'm currently a student and i'm always looking to learn and improve my skills. 👨‍💻</br>
 
 <b>About me 😄</b>
 

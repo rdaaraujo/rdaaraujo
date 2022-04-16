@@ -1,24 +1,22 @@
-Olá! Meu nome é Rafael Almeida.
-<br>Moro no Brasil e atualmente sou estudante e busco sempre aprender e melhorar minhas habilidades. 👨‍💻</br>
+## Oi eu sou o Rafael Almeida, estudante de ADS e aspirante a Dev! 👨‍💻
 
-<b>Sobre mim 😄</b>
-
-<li>Nasci e moro em Marília, São Paulo 👶</li>
-<li>Além de programar, também amo ficar com minha família e jogar no meu tempo livre 🎮</li>
-<li>Estou sempre ouvindo músicas e lendo livros 🎶</li>
-<li>Cada dia que passa, me apaixono mais sobre programação front-end e Java Script 💘</li>
-<li>Aberto a oportunidades de ganhar experiência e colocar em prática minhas habilidades 😅</li>
-
-<hr size="10" width="80%" align="center" noshade>
-
-Hi! My name is Rafael Almeida.
-<br>I'm from Brazil and i'm currently a student and i'm always looking to learn and improve my skills. 👨‍💻</br>
-
-<b>About me 😄</b>
-
-<li>I was born and live in Marília, São Paulo 👶</li>
-<li>Besides programming, I also love staying with my family and gaming in my free time 🎮</li>
-<li>Always listening to some music and read books 🎶</li>
-<li>Each passing day, I'm more in love about front-end development and JS 💘</li>
-<li>Open to an opportunity to gain experience and practice my skills 😅</li>
-
+<div align="center">
+  <a href="https://github.com/rdaaraujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdaaraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdaaraujo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/rdaaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:rafaelalmeidaaraujo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rdaaraujoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/rdaaraujoo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/rafstreze" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  
+  
+</div>

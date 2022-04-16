@@ -1,4 +1,4 @@
-## Oi eu sou o Rafael Almeida, estudante de ADS e aspirante a Dev! 👨‍💻
+## Oi eu sou o Rafael Almeida, estudante de ADS e futuro Dev! 👨‍💻
 <br>
 <div align="center">
   <a href="https://github.com/rdaaraujo">

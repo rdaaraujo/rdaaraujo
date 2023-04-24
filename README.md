@@ -4,8 +4,8 @@
 <p align="center">Se puder já me segue aí, tua ajuda e contribuição será muito bem vinda!</h2>
 <div align="center">
   <a href="https://github.com/rdaaraujo">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rdaaraujo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="150" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdaaraujo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rdaaraujo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdaaraujo&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center" valign="top"><br>

@@ -1,5 +1,5 @@
 <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/rdaaraujo/"><i>Rafael Almeida</i></a> 🙋🏻‍♂️</h1>
-<p align="center">Sou Desenvolvedor Back End Jr e Estudante de Análise e Desenvolvimento de Sistemas! 👨‍💻
+<p align="center">Atuo como Desenvolvedor Back End Jr e Estudante de Análise e Desenvolvimento de Sistemas! 👨‍💻
 <br>
 <p align="center">Se puder já me segue aí, tua ajuda e contribuição será muito bem vinda!</h2>
 <div align="center">

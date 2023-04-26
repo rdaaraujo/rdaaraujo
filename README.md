@@ -24,8 +24,10 @@
   <a href="mailto:rafaelalmeidaaraujo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/rafstreze" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  
 
-  ![Snake animation](https://github.com/rdaaraujo/rdaaraujo/blob/output/github-contribution-grid-snake.svg)
-  
+  <picture>
+  <img alt="github-snake" src="https://github.com/rdaaraujo/rdaaraujo/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+    
 </div>
 
 <!-- DOCUMENTAÇÃO UTILIZADA NO README.md

@@ -4,17 +4,17 @@
 <p align="center">Se puder já me segue aí, tua ajuda e contribuição será muito bem vinda!</h2>
 <div align="center">
   <a href="https://github.com/rdaaraujo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rdaaraujo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdaaraujo&langs_count=7&theme=tokyonight"/>
+  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rdaaraujo&show_icons=true&theme=tokyonight&include_all_commits=true"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdaaraujo&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="VB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PGSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="AZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-  <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
+  <!--<img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">-->
   </div><br>
  
 <div align="center">
